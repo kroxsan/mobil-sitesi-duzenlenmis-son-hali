@@ -1,0 +1,72 @@
+2025-11-08 12:35:48.180 +03 [27400] LOG:  starting PostgreSQL 18.0 on x86_64-windows, compiled by msvc-19.44.35217, 64-bit
+2025-11-08 12:35:48.184 +03 [27400] LOG:  could not bind IPv6 address "::1": Permission denied
+2025-11-08 12:35:48.184 +03 [27400] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2025-11-08 12:35:48.184 +03 [27400] WARNING:  could not create listen socket for "localhost"
+2025-11-08 12:35:48.184 +03 [27400] FATAL:  could not create any TCP/IP sockets
+2025-11-08 12:35:48.186 +03 [27400] LOG:  database system is shut down
+2025-11-08 12:37:27.510 +03 [22564] LOG:  starting PostgreSQL 18.0 on x86_64-windows, compiled by msvc-19.44.35217, 64-bit
+2025-11-08 12:37:27.515 +03 [22564] LOG:  could not bind IPv6 address "::1": Permission denied
+2025-11-08 12:37:27.515 +03 [22564] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2025-11-08 12:37:27.515 +03 [22564] WARNING:  could not create listen socket for "localhost"
+2025-11-08 12:37:27.515 +03 [22564] FATAL:  could not create any TCP/IP sockets
+2025-11-08 12:37:27.517 +03 [22564] LOG:  database system is shut down
+2025-11-08 12:38:44.784 +03 [31240] LOG:  starting PostgreSQL 18.0 on x86_64-windows, compiled by msvc-19.44.35217, 64-bit
+2025-11-08 12:38:44.787 +03 [31240] LOG:  listening on IPv6 address "::1", port 5432
+2025-11-08 12:38:44.788 +03 [31240] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-11-08 12:38:44.885 +03 [9184] LOG:  database system was shut down at 2025-11-08 12:35:35 +03
+2025-11-08 12:38:44.916 +03 [31240] LOG:  database system is ready to accept connections
+2025-11-08 12:40:35.025 +03 [31544] FATAL:  database "etkinlikdb" does not exist
+2025-11-08 12:43:44.891 +03 [14856] LOG:  checkpoint starting: time
+2025-11-08 12:43:49.599 +03 [14856] LOG:  checkpoint complete: wrote 43 buffers (0.3%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=4.690 s, sync=0.008 s, total=4.709 s; sync files=11, longest=0.001 s, average=0.001 s; distance=333 kB, estimate=333 kB; lsn=0/1844838, redo lsn=0/18447E0
+2025-11-08 12:55:15.004 +03 [31240] LOG:  background worker "logical replication launcher" (PID 9100) was terminated by exception 0xC000013A
+2025-11-08 12:55:15.004 +03 [31240] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-11-08 12:55:15.004 +03 [31240] LOG:  terminating any other active server processes
+2025-11-08 12:55:15.009 +03 [31240] LOG:  received fast shutdown request
+^C2025-11-08 12:57:12.066 +03 [29648] LOG:  starting PostgreSQL 18.0 on x86_64-windows, compiled by msvc-19.44.35217, 64-bit
+2025-11-08 12:57:12.069 +03 [29648] LOG:  listening on IPv6 address "::1", port 5432
+2025-11-08 12:57:12.069 +03 [29648] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-11-08 12:57:12.262 +03 [4260] LOG:  database system was interrupted; last known up at 2025-11-08 12:43:49 +03
+2025-11-08 12:57:17.894 +03 [4260] LOG:  could not open file "./logfile": sharing violation
+2025-11-08 12:57:17.894 +03 [4260] DETAIL:  Continuing to retry for 30 seconds.
+2025-11-08 12:57:17.894 +03 [4260] HINT:  You might have antivirus, backup, or similar software interfering with the database system.
+2025-11-08 12:57:45.001 +03 [4260] LOG:  syncing data directory (fsync), elapsed time: 32.73 s, current path: ./pg_commit_ts
+2025-11-08 12:57:45.013 +03 [4260] LOG:  database system was not properly shut down; automatic recovery in progress
+2025-11-08 12:57:45.018 +03 [4260] LOG:  redo starts at 0/18447E0
+2025-11-08 12:57:45.019 +03 [4260] LOG:  invalid record length at 0/18448E8: expected at least 24, got 0
+2025-11-08 12:57:45.019 +03 [4260] LOG:  redo done at 0/18448B0 system usage: CPU: user: 0.00 s, system: 0.00 s, elapsed: 0.00 s
+2025-11-08 12:57:45.022 +03 [9412] LOG:  checkpoint starting: end-of-recovery immediate wait
+2025-11-08 12:57:45.033 +03 [9412] LOG:  checkpoint complete: wrote 0 buffers (0.0%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.003 s, sync=0.002 s, total=0.012 s; sync files=2, longest=0.001 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/18448E8, redo lsn=0/18448E8
+2025-11-08 12:57:45.053 +03 [29648] LOG:  database system is ready to accept connections
+2025-11-08 13:02:45.034 +03 [9412] LOG:  checkpoint starting: time
+2025-11-08 13:04:33.643 +03 [9412] LOG:  checkpoint complete: wrote 994 buffers (6.1%), wrote 1 SLRU buffers; 1 WAL file(s) added, 0 removed, 0 recycled; write=108.362 s, sync=0.201 s, total=108.609 s; sync files=302, longest=0.004 s, average=0.001 s; distance=4672 kB, estimate=4672 kB; lsn=0/1CD4C20, redo lsn=0/1CD4B90
+2025-11-08 13:07:01.275 +03 [16304] ERROR:  relation "Users" does not exist at character 41
+2025-11-08 13:07:01.275 +03 [16304] STATEMENT:  SELECT EXISTS (
+	    SELECT 1
+	    FROM "Users" AS u
+	    WHERE u."Username" = $1)
+2025-11-08 13:19:40.147 +03 [20044] ERROR:  relation "__EFMigrationsHistory" does not exist at character 46
+2025-11-08 13:19:40.147 +03 [20044] STATEMENT:  SELECT "MigrationId", "ProductVersion"
+	FROM "__EFMigrationsHistory"
+	ORDER BY "MigrationId"
+2025-11-08 13:27:06.039 +03 [9412] LOG:  shutting down
+2025-11-08 13:27:06.039 +03 [29648] LOG:  received fast shutdown request
+2025-11-08 13:27:06.040 +03 [12752] ERROR:  canceling statement due to user request
+2025-11-08 13:27:06.041 +03 [9412] LOG:  checkpoint starting: shutdown immediate
+2025-11-08 13:27:06.041 +03 [29648] LOG:  aborting any active transactions
+2025-11-08 13:27:06.051 +03 [9412] LOG:  checkpoint complete: wrote 0 buffers (0.0%), wrote 0 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=0.001 s, sync=0.001 s, total=0.012 s; sync files=0, longest=0.000 s, average=0.000 s; distance=0 kB, estimate=4205 kB; lsn=0/1CD4CD0, redo lsn=0/1CD4CD0
+2025-11-08 13:27:06.074 +03 [29648] LOG:  background worker "logical replication launcher" (PID 12752) exited with exit code 1
+2025-11-08 13:27:06.252 +03 [29648] LOG:  database system is shut down
+2025-11-08 13:33:39.368 +03 [18460] LOG:  starting PostgreSQL 18.0 on x86_64-windows, compiled by msvc-19.44.35217, 64-bit
+2025-11-08 13:33:39.371 +03 [18460] LOG:  listening on IPv6 address "::1", port 5432
+2025-11-08 13:33:39.371 +03 [18460] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2025-11-08 13:33:39.461 +03 [14196] LOG:  database system was shut down at 2025-11-08 13:27:06 +03
+2025-11-08 13:33:39.486 +03 [18460] LOG:  database system is ready to accept connections
+2025-11-08 13:34:53.602 +03 [4952] ERROR:  relation "__EFMigrationsHistory" does not exist at character 46
+2025-11-08 13:34:53.602 +03 [4952] STATEMENT:  SELECT "MigrationId", "ProductVersion"
+	FROM "__EFMigrationsHistory"
+	ORDER BY "MigrationId"
+2025-11-08 13:36:30.884 +03 [18460] LOG:  background worker "logical replication launcher" (PID 28388) was terminated by exception 0xC000013A
+2025-11-08 13:36:30.884 +03 [18460] HINT:  See C include file "ntstatus.h" for a description of the hexadecimal value.
+2025-11-08 13:36:30.884 +03 [18460] LOG:  terminating any other active server processes
+2025-11-08 13:36:30.901 +03 [18460] LOG:  all server processes terminated; reinitializing
+^C

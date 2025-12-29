@@ -1,0 +1,427 @@
+C:\web dersi\site_backend\bin\Debug\net9.0\appsettings.Development.json
+C:\web dersi\site_backend\bin\Debug\net9.0\appsettings.json
+C:\web dersi\site_backend\bin\Debug\net9.0\site_backend.staticwebassets.endpoints.json
+C:\web dersi\site_backend\bin\Debug\net9.0\site_backend.exe
+C:\web dersi\site_backend\bin\Debug\net9.0\site_backend.deps.json
+C:\web dersi\site_backend\bin\Debug\net9.0\site_backend.runtimeconfig.json
+C:\web dersi\site_backend\bin\Debug\net9.0\site_backend.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\site_backend.pdb
+C:\web dersi\site_backend\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Humanizer.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Npgsql.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\System.CodeDom.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\System.Text.Json.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\web dersi\site_backend\obj\Debug\net9.0\site_backend.csproj.AssemblyReference.cache
+C:\web dersi\site_backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\web dersi\site_backend\obj\Debug\net9.0\site_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\web dersi\site_backend\obj\Debug\net9.0\site_backend.AssemblyInfoInputs.cache
+C:\web dersi\site_backend\obj\Debug\net9.0\site_backend.AssemblyInfo.cs
+C:\web dersi\site_backend\obj\Debug\net9.0\site_backend.csproj.CoreCompileInputs.cache
+C:\web dersi\site_backend\obj\Debug\net9.0\site_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\web dersi\site_backend\obj\Debug\net9.0\site_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\web dersi\site_backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\web dersi\site_backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\web dersi\site_backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\web dersi\site_backend\obj\Debug\net9.0\scopedcss\bundle\site_backend.styles.css
+C:\web dersi\site_backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\web dersi\site_backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\web dersi\site_backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\web dersi\site_backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\web dersi\site_backend\obj\Debug\net9.0\site_bac.FABC9413.Up2Date
+C:\web dersi\site_backend\obj\Debug\net9.0\site_backend.dll
+C:\web dersi\site_backend\obj\Debug\net9.0\refint\site_backend.dll
+C:\web dersi\site_backend\obj\Debug\net9.0\site_backend.pdb
+C:\web dersi\site_backend\obj\Debug\net9.0\site_backend.genruntimeconfig.cache
+C:\web dersi\site_backend\obj\Debug\net9.0\ref\site_backend.dll
+C:\web dersi\site_backend\obj\Debug\net9.0\site_backend.sourcelink.json
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\appsettings.Development.json
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\appsettings.json
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\site_backend.staticwebassets.endpoints.json
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\site_backend.exe
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\site_backend.deps.json
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\site_backend.runtimeconfig.json
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\site_backend.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\site_backend.pdb
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Humanizer.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Npgsql.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\System.CodeDom.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\System.Text.Json.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\site_backend.csproj.AssemblyReference.cache
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\site_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\site_backend.AssemblyInfoInputs.cache
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\site_backend.AssemblyInfo.cs
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\site_backend.csproj.CoreCompileInputs.cache
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\site_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\site_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\scopedcss\bundle\site_backend.styles.css
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\site_bac.FABC9413.Up2Date
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\site_backend.dll
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\refint\site_backend.dll
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\site_backend.pdb
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\site_backend.genruntimeconfig.cache
+C:\mobil_kopya2\site_backend\obj\Debug\net9.0\ref\site_backend.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\appsettings.Development.json
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\appsettings.json
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\site_backend.staticwebassets.endpoints.json
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\site_backend.exe
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\site_backend.deps.json
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\site_backend.runtimeconfig.json
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\site_backend.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\site_backend.pdb
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Humanizer.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Npgsql.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\System.CodeDom.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\System.Text.Json.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.csproj.AssemblyReference.cache
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.AssemblyInfoInputs.cache
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.AssemblyInfo.cs
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.csproj.CoreCompileInputs.cache
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\scopedcss\bundle\site_backend.styles.css
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\staticwebassets.build.json
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\staticwebassets.development.json
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_bac.FABC9413.Up2Date
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.dll
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\refint\site_backend.dll
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.pdb
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.genruntimeconfig.cache
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\ref\site_backend.dll
