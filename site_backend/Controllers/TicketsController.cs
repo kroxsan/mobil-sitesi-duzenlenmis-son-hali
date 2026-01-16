@@ -63,7 +63,7 @@ namespace site_backend.Controllers
             if (ev == null)
                 return NotFound("Etkinlik bulunamadı");
 
-            // 🔥 Kalan kapasite kontrolü
+            //  Kalan kapasite kontrolü
             var soldTickets = _context.Tickets
                 .Where(t => t.EventId == ev.Id)
                 .Sum(t => t.Quantity);

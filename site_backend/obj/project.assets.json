@@ -3720,11 +3720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\mobil_kopya\\site_backend\\site_backend.csproj",
+      "projectUniqueName": "C:\\mobil_final\\site_backend\\site_backend.csproj",
       "projectName": "site_backend",
-      "projectPath": "C:\\mobil_kopya\\site_backend\\site_backend.csproj",
+      "projectPath": "C:\\mobil_final\\site_backend\\site_backend.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\mobil_kopya\\site_backend\\obj\\",
+      "outputPath": "C:\\mobil_final\\site_backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

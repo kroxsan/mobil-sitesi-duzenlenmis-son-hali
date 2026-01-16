@@ -142,7 +142,7 @@ class _HomePageState extends State<HomePage> {
 
               const SizedBox(height: 20),
 
-              /// 🎟️ EVENT LİSTESİ
+              /// EVENT LİSTESİ
               Expanded(
                 child: filteredEvents.isEmpty
                     ? const Center(
@@ -161,7 +161,7 @@ class _HomePageState extends State<HomePage> {
                       ),
               ),
 
-              /// 📄 SAYFALAMA
+              ///  SAYFALAMA
               if (filteredAll.isNotEmpty)
                 Padding(
                   padding: const EdgeInsets.only(top: 12),

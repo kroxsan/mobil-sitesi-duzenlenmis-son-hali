@@ -56,7 +56,7 @@ class _RegisterPageState extends State<RegisterPage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Kayıt Ol'),
-        backgroundColor: Colors.deepPurple,
+        backgroundColor: const Color.fromARGB(255, 5, 216, 51),
       ),
       body: Center(
         child: Container(
@@ -109,7 +109,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 ElevatedButton(
                   onPressed: _register,
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.deepPurple,
+                    backgroundColor: const Color.fromARGB(255, 3, 201, 63),
                     foregroundColor: Colors.white,
                     minimumSize: const Size(double.infinity, 50),
                   ),

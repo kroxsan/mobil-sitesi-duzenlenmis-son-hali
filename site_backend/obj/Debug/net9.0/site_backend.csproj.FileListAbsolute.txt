@@ -425,3 +425,4 @@ C:\mobil_kopya\site_backend\obj\Debug\net9.0\refint\site_backend.dll
 C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.pdb
 C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.genruntimeconfig.cache
 C:\mobil_kopya\site_backend\obj\Debug\net9.0\ref\site_backend.dll
+C:\mobil_kopya\site_backend\obj\Debug\net9.0\site_backend.sourcelink.json
